@@ -1,0 +1,25 @@
+{
+  "name": "express-endpoint",
+  "version": "1.0.0",
+  "description": "Express endpoint",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenyaKyrychenko/express-endpoint.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Kyrychenko Jenya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenyaKyrychenko/express-endpoint/issues"
+  },
+  "homepage": "https://github.com/JenyaKyrychenko/express-endpoint#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
